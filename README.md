@@ -36,13 +36,7 @@ to buy this software
 https://t.me/H16kM4w
 
 
-## Installation / Quick Start
-
-
-```bash
-# Clone the repo
-git clone https://github.com/yourusername/transferable-usdt-flash.git
-cd transferable-usdt-flash
+## Installation / Quick start
 
 
 # Run simulation mode (testnet only!)
