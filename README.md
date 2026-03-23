@@ -40,14 +40,6 @@ This tool simulates blockchain behavior by:
 
 
 ---
-
-## ⚠️ Important Warning
-
-- ❌ Cannot be traded  
-- ❌ Cannot be withdrawn  
-- ❌ No real blockchain value  
-
----
 # ▶️ Quick Start
 
 ```bash
