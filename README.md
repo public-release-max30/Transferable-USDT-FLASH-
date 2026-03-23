@@ -1,4 +1,4 @@
-ok# ⚡Transferable USDT-FLASH
+⚡Transferable USDT-FLASH
 
 **Lightning-fast simulated USDT transfers • Multi-chain • Wallet & exchange compatible**
 
