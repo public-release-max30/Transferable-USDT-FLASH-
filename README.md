@@ -36,10 +36,19 @@ These transactions:
 This tool simulates blockchain behavior by:
 - Mimicking transaction confirmations  
 - Displaying temporary balances in wallets  
-- Emulating transfers without real blockchain validation  
-
-
+- Emulating transfers without real blockchain validation
 ---
+
+## ⚠️ Important Warning
+
+- ❌ Cannot be traded  
+- ❌ Cannot be withdrawn  
+- ❌ No real blockchain value  
+
+🚨 Misuse (e.g., scams or deception) may be illegal.  
+Use responsibly
+
+
 # ▶️ Quick Start
 
 ```bash
