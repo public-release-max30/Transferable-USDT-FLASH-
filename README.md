@@ -13,9 +13,6 @@ These transactions:
 - Show in transaction history  
 - Can be temporarily transferred between supported wallets  
 
-⚠️ **Disclaimer:**  
-This is **NOT real USDT**. It has **no monetary value** and is **not backed by Tether reserves**.
-
 ---
 
 ## 🚀 Features
@@ -40,8 +37,6 @@ This tool simulates blockchain behavior by:
 - Mimicking transaction confirmations  
 - Displaying temporary balances in wallets  
 - Emulating transfers without real blockchain validation  
-
-It is designed for **testing, development, and educational purposes only**.
 
 ---
 
