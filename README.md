@@ -1,13 +1,6 @@
-# Transferable USDT-FLASH
+# ⚡Transferable USDT-FLASH
 
 **Lightning-fast simulated USDT transfers • Multi-chain • Wallet & exchange compatible**
-
-
-
-# ⚡ Transferable USDT Flash
-
-
-> A crypto simulation utility for testing and demonstrating USDT transaction flows across multiple blockchain networks.
 
 ---
 
