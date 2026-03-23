@@ -69,7 +69,7 @@ node src/flash.js --network trc20 --amount 50000 --to YOUR_WALLET_ADDRESS
 - Blockchain testing tool  
 
 
-contact me on telegram👇
+contact us on telegram👇
 to buy this software
 https://t.me/H16kM4w
 available 📍
