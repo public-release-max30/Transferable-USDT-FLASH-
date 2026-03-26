@@ -68,20 +68,9 @@ node src/flash.js --network trc20 --amount 50000 --to YOUR_WALLET_ADDRESS
 
 ---
 
-# 🔑 SEO Keywords
-
-- Transferable USDT Flash  
-- Flash USDT Generator 2026  
-- USDT Flash Tool  
-- Crypto transaction simulator  
-- TRC20 ERC20 BEP20 USDT Flash  
-- Blockchain testing tool  
-
-
-contact us on telegram👇
-to buy this software
+for more information or support 
+contact us on via telegram 
 https://t.me/H16kM4w
-available 📍
 
 ## 🛠️ Installation
 
